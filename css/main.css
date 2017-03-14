@@ -1,0 +1,28 @@
+h1, h2 {
+text-align: center;
+}
+
+.title {
+color: cyan;
+background: white;
+font-family: Arial;
+}
+
+.welcome {
+color: gold;
+}
+
+#title-text {
+    width: 80%;
+    display:inline-block;
+}
+
+button {
+text-align: right 
+}
+
+#intro {
+	padding-left: 20%;
+	padding-right: 20%;
+	font-family: Arial 	;
+}
